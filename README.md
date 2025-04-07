@@ -3,8 +3,11 @@
 ## dependencies
 (if it does not build, you might need to install the `*-devel` packages also)
 
+- `fontconfig`
+- `freetype`
 - `libX11`
 - `libXft`
+- `libXinerama`
 
 ## install
 to install my dmenu, type
